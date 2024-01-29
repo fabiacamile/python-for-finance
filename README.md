@@ -1,4 +1,4 @@
-# python-for-finance
+# Getting Started with Python for Finance 
 
 ## LinkedIn Learning course
 ### Course Details
